@@ -12,11 +12,3 @@
 | Household products lead | Top category |
 | Tier 1 locations | **46%** total sales |
 
-## 🛠️ Tech Stack
-- PostgreSQL + pgAdmin (19 queries)
-- Tableau Public (interactive dashboard)
-
-## 🚀 Quick Start
-1. Import CSV to PostgreSQL
-2
-
