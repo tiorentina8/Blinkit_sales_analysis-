@@ -2,7 +2,7 @@
 
 **SQL analysis + Tableau visualization of grocery sales data (₹503K total)**
 
-[![Dashboard](Tableau%20screenshot.png)]
+![Dashboard](Tableau%20screenshot.png)
 
 ## 📊 Key Insights
 | Insight | Value |
