@@ -2,7 +2,7 @@
 
 **SQL analysis + Tableau visualization of grocery sales data (₹503K total)**
 
-[![Dashboard Preview](Screenshot-2026-01-19-at-2.11.57-PM.jpg)][file:147]
+[![Dashboard](Tableau%20screenshot.png)]
 
 ## 📊 Key Insights
 | Insight | Value |
@@ -13,13 +13,10 @@
 | Tier 1 locations | **46%** total sales |
 
 ## 🛠️ Tech Stack
-- **PostgreSQL + pgAdmin** (19 SQL queries)
-- **Tableau Public** (interactive dashboard)
-- **Excel** (data prep)
+- PostgreSQL + pgAdmin (19 queries)
+- Tableau Public (interactive dashboard)
 
 ## 🚀 Quick Start
-1. Import `BlinkIT Grocery Data.csv` to PostgreSQL
-2. Run `Blinkit queries.sql` (generates 19 CSV outputs)
-3. Open `Blinkit data tableau.twb` in Tableau Public
+1. Import CSV to PostgreSQL
+2
 
-## 📁 Files
